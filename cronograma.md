@@ -92,35 +92,35 @@ Ementa - comandos de controle de fluxo (seleção): simples(se - `if`), encadead
 
 ### Aula13 02/09/21 quinta
 
-- comandos de controle de fluxo: seleção.
+- Feriado Aniversário Blumenau
 
 ### Aula14 02/09/21 quinta
 
-- lista de exercícios.
+- Feriado Aniversário Blumenau
 
 ### Aula15 03/09/21 sexta
 
-- lista de exercícios.
+- Feriado Aniversário Blumenau
 
 ### Aula16 09/09/21 quinta
 
-- lista de exercícios.
+- comandos de controle de fluxo: seleção.
 
 ### Aula17 09/09/21 quinta
 
-- prática URI.
+- comandos de controle de fluxo: seleção.
 
 ### Aula18 10/09/21 sexta
 
-- prática URI.
+- prática URI e lista de exercícios.
 
 ### Aula19 16/09/21 quinta
 
-- prática URI.
+- prática URI e lista de exercícios.
 
 ### Aula20 16/09/21 quinta
 
-- prática URI.
+- prática URI e lista de exercícios.
 
 **Entrega:** prática em aula (algoritmos).
 
@@ -289,4 +289,4 @@ Introdução a orientação a objetos
 
 -----------
 
-Último dia para entregar os diários de classe 2021/1: 25/06/21 - 07/07/21
+Último dia para entregar os diários de classe 2021/2: 04/12/21 - 15/12/21
