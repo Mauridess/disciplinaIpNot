@@ -26,8 +26,8 @@ Ementa - fundamentos da programação de computadores: solução de problemas e 
 - demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível);
 - instalar Java e VSCode (próxima aula).
 
-**Entrega:** Questionário 1.  
-**Entrega:** Questionário 2.
+**Entrega Questionário 1:** 11/08/21 (quarta)
+**Entrega Questionário 2:** 11/08/21 (quarta)
 
 -----------
 
@@ -48,7 +48,7 @@ Ementa - construção de algoritmos: dados, tipos, comandos e instruções.
 
 - método de resolução de algoritmos.
 
-**Entrega:** Questionário 3.
+**Entrega Questionário 3:** 18/08/21 (quarta)  
 
 -----------
 
@@ -81,8 +81,8 @@ Ementa - introdução a linguagem de programação: introdução a uma IDE, cara
 
 - prática URI.
 
-**Entrega:** prática no URI (algoritmos).  
-**Entrega:** Questionário 4.
+**Entrega prática no URI (algoritmos):** 09/09/21 (quarta)  
+**Entrega Questionário 4:**  09/09/21 (quarta)
 
 -----------
 
@@ -122,7 +122,7 @@ Ementa - comandos de controle de fluxo (seleção): simples(se - `if`), encadead
 
 - prática URI e lista de exercícios.
 
-**Entrega:** prática em aula (algoritmos).
+**Entrega prática em aula (algoritmos):** 16/09/21 (quinta)  
 
 ### Aula21 17/09/21 sexta
 
@@ -140,7 +140,7 @@ Ementa - comandos de controle de fluxo (seleção): simples(se - `if`), encadead
 
 - correção da Prova 1.
 
-**Entrega:** Questionário 5.
+**Entrega Questionário 5:** 29/09/21 (quarta)  
 
 -----------
 
@@ -184,8 +184,8 @@ Ementa - comandos de controle de fluxo (Repetição): enquanto (`while`), para (
 
 - prática URI.
 
-**Entrega:** prática em aula (algoritmos).  
-**Entrega:** Questionário 6.
+**Entrega prática em aula (algoritmos):** 20/10/21 (quarta)  
+**Entrega Questionário 6:** 20/10/21 (quarta)  
 
 -----------
 
@@ -213,7 +213,7 @@ Ementa - tipos estruturados: características dos tipos estruturados e vetores (
 
 - lista de exercícios.
 
-**Entrega:** prática em aula (algoritmos).  
+**Entrega prática em aula (algoritmos):** 03/11/21 (quarta)  
 
 ### Aula39 29/10/21 sexta
 
@@ -221,17 +221,17 @@ Ementa - tipos estruturados: características dos tipos estruturados e vetores (
 
 ### Aula40 04/11/21 quinta
 
-- Prova 1
+- Prova 2
 
 ### Aula41 04/11/21 quinta
 
-- Prova 1
+- Prova 2
 
 ### Aula42 05/11/21 sexta
 
 - correção da Prova 2.
 
-**Entrega:** Questionário 7.
+**Entrega Questionário 7:** 10/11/12 (quarta)  
 
 -----------
 
