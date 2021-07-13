@@ -14,7 +14,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 
 ## Ambiente de Desenvolvimento Prático
 
-Para o desenvolvimento da parte prática precisamos de uma **Linguagem de Programação** e uma **IDE** (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado). E também iremos 
+Para o desenvolvimento da parte prática precisamos de uma **Linguagem de Programação** e uma **IDE** (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado). Também podemos usar outras ferramentas para ajudar neste processo de aprender a programar. Separei algumas abaixo que gradativamente iremos usar. Bom, vamos começar pela Linguagem de Programação ($let's$ $go$).
 
 ### Instalando a Linguagem de Programação - Java
 
@@ -128,3 +128,8 @@ Gits é um recurso adicional ao [GitHub](<https://github.com>) para permitir o c
 
 Para se aprofundar mais em Java tem a documentação oficial do OpenJDK:
 [<http://devdocs.io/openjdk/>](<http://devdocs.io/openjdk/> "Documentação do OpenJDK")
+
+## Outras opções
+
+Bom, existem muitas opções, e obviamente com o tempo vocês mesmo conseguiram decidir quais são melhores.
+E sempre aparecem mais e mais, sempre com novidades "futurísticas" ($I'll$ $be$ $back$!!).
