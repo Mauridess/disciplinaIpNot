@@ -1,5 +1,9 @@
 # Algumas anotações das aulas
 
+## ![Rabiscos](anotacoesAula.drawio.svg)
+
+## Introdução à Programação - Unidade 2
+
 Na última aula resolvemos dois problemas iniciais utilizando Java no VSCode.
 Na aula de hoje, entenderemos um pouco mais a respeito do ambiente a ser utilizado durante o semestre, bem como resolveremos novos exercícios para treinar a habilidade de solucionar problemas e de interpretar textos.
 

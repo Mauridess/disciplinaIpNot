@@ -2,9 +2,9 @@
 
 ## ![Rabiscos](anotacoesAula.drawio.svg)
 
-## Apresentação do AVA3
+## Introdução à Programação - Unidade 1
 
-### Disciplina
+## Aula: 01 e 02
 
 - Avisos: os avisos serão feitos todos pelo Teams
 - Apresentação do Professor
