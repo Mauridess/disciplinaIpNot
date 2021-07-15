@@ -85,13 +85,27 @@ Videoaula_1_2 (18:57): [link alternativo](<https://furb-my.sharepoint.com/:v:/g/
 ![Imagem de exemplo de um fluxograma](imgs/img_Fluxograma.png "Imagem de exemplo de um fluxograma")
 
 ### Diagramas​
+
 - Outros tipos de diagramas também permitem a representação de soluções de problemas com base em notações gráficas.​
-##### Diagrama de Chapin (Nassi-Shneiderman)<br>
+
+##### Diagrama de Chapin (Nassi-Shneiderman)
+
 ![Diagrama de Chapin (Nassi-Shneiderman)](imgs/img_DiagramaChapin.png "Diagrama de Chapin (Nassi-Shneiderman)")
-##### Diagrama de Estados<br>
+
+##### Diagrama de Estados
+
 ![Diagrama de Estados](imgs/img_DiagramaEstados.png "Diagrama de Estados")
 
+##### Diagrama de Classes
+
+    Exemplo: Jogo da Velha
+![Diagrama de Classes](imgs/img_JogoDaVelha.svg)
+
+    Exemplo: Space Invaders
+![Diagrama de Classes](imgs/img_SpaceInvaders.svg)
+
 ### Solução de Problemas​
+
 - A solução de um problema computacional requer:​
   - **busca de outras experiências e soluções para problemas semelhantes**: soluções já existentes podem e devem ser consultadas antes de se tentar propor uma nova solução.
   - **divisão e conquista**: ao se deparar com um problema complexo, tenta-se reduzi-lo a problemas menores e mais fáceis de serem tratados.
