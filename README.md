@@ -2,7 +2,7 @@
 
 Olá, seja bem vindo ..
 
-Este é o material principal da disciplina de Introdução à Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 7 (sete) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas videoaulas, e atividades, dependo da unidade.
+Este é o principal material da disciplina de Introdução à Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 7 (sete) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas videoaulas, e atividades, dependo da unidade.
 
 Para se localizar em relação aos dias de aula e o conteúdo que está sendo passado utilize o arquivo [cronograma.md](cronograma.md) que se encontra na pasta raíz do nosso GitHub.
 
@@ -112,11 +112,28 @@ E outro extensão é instalar o GIT que serve para "versionar" códigos. Todo o 
 
 - sobre o GIT no geral
   
-[<https://git-scm.com>](<https://git-scm.com> "Sobre o GIT")
+  [<https://git-scm.com>](<https://git-scm.com> "Sobre o GIT")
 
 - para usar o GIT
   
   [<https://git-scm.com/download/win>](<https://git-scm.com/download/win> "Instalar o GIT")
+
+- configure a ferramenta GIT: configure informações de usuário para todos os repositórios locais.  
+  - configura o nome que você quer ligado às suas transações de commit:
+
+    ```shell
+    git config --global user.name "[nome]"
+    ```
+
+  - configura o email que você quer ligado às suas transações de commit:
+
+    ```shell
+    git config --global user.email "[endereco-de-email]"
+    ```
+
+- folha de dicas (_cheat-sheet_)
+
+  [https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/ "cheat-sheet")
 
 ## GIT (Gits)
 

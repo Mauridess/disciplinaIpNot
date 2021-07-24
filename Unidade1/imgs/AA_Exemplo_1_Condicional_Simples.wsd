@@ -1,0 +1,11 @@
+@startuml _Exemplo_1_Condicional_Simples
+  (*) --> "idade = 19" 
+  if "(idade >= 18)" then
+    ->[true] "escrever(Adulto)"
+    --> ===REDIRECT_CHECK===  
+  else
+    -->[false] ===REDIRECT_CHECK===
+  endif
+  --> "escrever(..FIM..)"
+  -->(*)
+@enduml

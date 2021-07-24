@@ -25,8 +25,15 @@
 
         projetos relacionados com as disciplinas
         assuntos relacionados com a área da educação
-        Grupos de Pesquisa: GCG e TecEdu
-        Oportunidade para fazer pesquisa: ser bolsista
+
+- Grupos de Pesquisa:  
+        [<http://gcg.inf.furb.br/>](<http://gcg.inf.furb.br/> "grupo de pesquisa GCG")  
+        [<http://tecedu.inf.furb.br/>](<http://tecedu.inf.furb.br/> "grupo de pesquisa TecEdu")  
+
+- Zotero:
+        [<https://www.zotero.org/daltonreis>](<https://www.zotero.org/daltonreis> "Zotero")  
+
+- Oportunidade para fazer pesquisa: ser bolsista  
 
 - Meu gosto tecnológico ..
   
@@ -118,56 +125,14 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
   ![\Large \Large&space;a+\int_{a}^{b}dx=z](https://latex.codecogs.com/svg.latex?\Large&space;a+\int_{a}^{b}dx=z)
 
 - Exemplo, na Computação, uma representação gráfica:
-  - Fluxograma de uma rotina condicional simples
 
-[//]: # (FIXME: deveria esconder o código abaixo <div hidden> ... </div>)  
-<div hidden> 
+    Fluxograma de uma rotina condicional simples
 
-```
-@startuml AA_Exemplo_1_Condicional_Simples
-  (*) --> "idade = 19" 
-  if "(idade >= 18)" then
-    ->[true] "escrever(Adulto)"
-    --> ===REDIRECT_CHECK===  
-  else
-    -->[false] ===REDIRECT_CHECK===
-  endif
-  --> "escrever(..FIM..)"
-  -->(*)
-@enduml
-```
-</div>
+![Diagrama de estados de uma rotina condicional simples](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpPrivado/master/Unidade1/imgs/AA_Exemplo_1_Condicional_Simples.wsd?token=AAEQ3UX5KVH3NLTGMWBW3YTBAAF5I "Diagrama de estados de uma rotina condicional simples")
 
-  ![Diagrama de estados de uma rotina condicional simples](imgs/AA_Exemplo_1_Condicional_Simples.svg "Diagrama de estados de uma rotina condicional simples")
+    Fluxograma de uma rotina para achar o menor valor entre três valores
 
-- Fluxograma de uma rotina para ordenar três valores
-
-  <div hidden>
-
-  ```
-  @diagramação Achar menor valor entre três valores:
-  @startuml AA_Exemplo_99_ordenarTresValores
-    start
-      :ler(valor1)
-      ler(valor2)
-      ler(valor3);
-      :valorMenor;
-      if ((valor1 <= valor2) **E** (valor1 <= valor3)) then (sim)
-        :valorMenor = valor1;
-      else (não)
-        if ((valor2 <= valor1) **E** (valor2 <= valor3)) then (sim)
-          :valorMenor = valor2;
-        else (não)
-          :valorMenor = valor3;
-        endif
-      endif
-    stop
-    :escrever("menor:" + valorMenor);
-  @enduml
-  ```
-  </div>
-
-  ![Diagrama de estados de uma rotina para ordenar três valores](imgs/AA_Exemplo_99_ordenarTresValores.svg "Diagrama de estados de uma rotina para ordenar três valores")
+![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpPrivado/master/Unidade1/imgs/AA_Exemplo_99_ordenarTresValores.wsd?token=AAEQ3UR4ESPS2ZULIYCYFNLBAAGIS "Diagrama de estados de uma rotina para achar o menor valor entre três valores")
 
 ## Como fica na prática
 
