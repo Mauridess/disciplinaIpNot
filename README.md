@@ -1,6 +1,6 @@
 # Disciplina de Introdução à Programação
 
-Olá, seja bem vindo ..
+Olá, seja bem vindo .. :smile:
 
 Este é o principal material da disciplina de Introdução à Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 7 (sete) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas videoaulas, e atividades, dependo da unidade.
 

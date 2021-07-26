@@ -16,15 +16,18 @@
 
 - Leciono atualmente:
 
-        1a fase - Introdução à Programação (matutino/noturno)
-        7a fase - Computação Gráfica
-        8a fase - Realidade Virtual
+        1a fase - Introdução à Programação  
+        2a fase - Introdução à Computação  
+        2a fase - Lógica para Computação  
+        7a fase - Computação Gráfica  
+        8a fase - Realidade Virtual  
         8a fase - Desenvolvimento para Plataformas Móveis 
+        8a fase - Trabalho de Conclusão de Curso I
 
 - Linhas pesquisa:
 
-        projetos relacionados com as disciplinas
-        assuntos relacionados com a área da educação
+        projetos relacionados com as disciplinas (área gráfica)  
+        assuntos relacionados com a área da educação  
 
 - Grupos de Pesquisa:  
         [<http://gcg.inf.furb.br/>](<http://gcg.inf.furb.br/> "grupo de pesquisa GCG")  
