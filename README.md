@@ -141,6 +141,21 @@ Gits é um recurso adicional ao [GitHub](<https://github.com>) para permitir o c
 
 - Compartilhamento de códigos e notas relacionadas a disciplina de Introdução à Programação: <https://gist.github.com/dalton-reis>
 
+## GIT (Discussions)
+
+O **Discussions** é um espaço de discussões da nossa disciplina de Introdução à Programação. As discussões podem ser um lugar para nos conectarmos com outros membros da nossa disciplina. Neste espaço você pode:
+
+- Perguntar sobre assuntos que você está com dúvidas.  
+- Compartilhar ideias.  
+- Conhecer outros membros da disciplina.  
+- Dê boas-vindas aos outros e tenha a mente aberta.  
+
+Lembre-se de que esta é uma comunidade que nós construímos juntos 💪.
+
+Para começar, comente abaixo apresentando-se e conte-nos o que você faz na área da computação.
+
+- <https://github.com/dalton-reis/disciplinaIpNot/discussions>
+
 ## OpenJDK Documentation
 
 Para se aprofundar mais em Java tem a documentação oficial do OpenJDK:
