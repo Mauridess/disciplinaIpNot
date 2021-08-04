@@ -1,6 +1,6 @@
 # Algumas anotações das aulas
 
-## ![Rabiscos](anotacoesAula.drawio.svg)
+## ![Rabiscos](aulaAnotacoes.drawio.svg)
 
 ## Introdução à Programação - Unidade 2
 
