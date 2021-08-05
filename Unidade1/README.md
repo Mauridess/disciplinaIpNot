@@ -98,6 +98,12 @@ Videoaula_1_2 (18:57): [link alternativo](<https://furb-my.sharepoint.com/:v:/g/
 
 ##### Diagrama de Classes
 
+    Exemplo: no IDE VSCode
+![Diagrama de Classes](imgs/classeAB.drawio.svg)  
+[ClasseA.java](./src/ClasseA.java "ClasseA.java")  
+[ClasseB.java](./src/ClasseB.java "ClasseB.java")  
+[classeAB.drawio.svg](./imgs/classeAB.drawio.svg "classeAB.drawio.svg")  
+
     Exemplo: Jogo da Velha
 ![Diagrama de Classes](imgs/img_JogoDaVelha.svg)
 
