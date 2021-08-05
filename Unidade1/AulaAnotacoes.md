@@ -8,11 +8,16 @@
 
 - Avisos: os avisos serão feitos todos pelo Teams
 - Apresentação do Professor
+
+![Foto professor](./imgs/img_DaltonReis.png "Foto professor")  
   
         Nome: Dalton Solano dos Reis
+        Contato: dalton@furb.br
         1988-1992: Graduação na FURB (primeira turma de Computação)
         1994-1997: Mestrado (M.Sc.) na UFRGS .. Área Gráfica
         2003-2007: Doutorado (Dr.) na UFRGS .. Área Gráfica
+
+- Resumo: Graduado em Bacharel Em Ciências da Computação pela FURB (1992) e mestrado em Computação pela UFRGS (1997). Atualmente é professor titular da FURB. Tem experiência na área de Ciência da Computação, com ênfase Computação Gráfica, atuando principalmente nos seguintes temas: Computação Gráfica, Realidade Virtual, Jogos e Aplicações móveis, e desenvolvimento de material educacional explorando Tecnologias de Desenvolvimento de Sistemas Aplicadas à Educação.
 
 - Leciono atualmente:
 
