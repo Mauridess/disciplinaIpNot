@@ -136,11 +136,11 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
     Fluxograma de uma rotina condicional simples
 
-![Diagrama de estados de uma rotina condicional simples](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpPrivado/master/Unidade1/imgs/AA_Exemplo_1_Condicional_Simples.wsd?token=AAEQ3UX5KVH3NLTGMWBW3YTBAAF5I "Diagrama de estados de uma rotina condicional simples")
+![Diagrama de estados de uma rotina condicional simples](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpNot/main/Unidade1/imgs/AA_Exemplo_1_Condicional_Simples.wsd "Diagrama de estados de uma rotina condicional simples")
 
     Fluxograma de uma rotina para achar o menor valor entre três valores
 
-![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpPrivado/master/Unidade1/imgs/AA_Exemplo_99_ordenarTresValores.wsd?token=AAEQ3UR4ESPS2ZULIYCYFNLBAAGIS "Diagrama de estados de uma rotina para achar o menor valor entre três valores")
+![Diagrama de estados de uma rotina para achar o menor valor entre três valores](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/dalton-reis/disciplinaIpNot/main/Unidade1/imgs/AA_Exemplo_99_ordenarTresValores.wsd "Diagrama de estados de uma rotina para achar o menor valor entre três valores")
 
 ## Como fica na prática
 
