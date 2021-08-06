@@ -14,7 +14,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 
 ## Links
 
-[AVA3)](<https://ava3.furb.br/course/view.php?id=27025> "AVA3")  
+[AVA3](<https://ava3.furb.br/course/view.php?id=27025> "AVA3")  
 [Prova de Suficiência (inscrição)](<https://forms.office.com/r/qjF4LaMBGA> "Prova de Suficiência (inscrição)")
 [Aulas MS-Teams](<https://teams.microsoft.com/l/channel/19%3ab305ce0e3087401ea2ecd82432fb32f2%40thread.tacv2/Geral?groupId=3db62920-46ba-4b88-8e41-a8e69cb20d1b&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams")  
 [Gravações das aulas](<https://furb.sharepoint.com/teams/CMP0166000220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas")  
