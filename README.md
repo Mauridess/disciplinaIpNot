@@ -1,169 +1,73 @@
 # Disciplina de Introdução à Programação
 
-[Link AVA3 Introdução à Programação (BCC)](<https://ava3.furb.br/course/view.php?id=27025> "Link AVA3 Introdução à Programação (BCC)")  
-
 Olá, seja bem vindo .. :smile:
 
 Este é o principal material da disciplina de Introdução à Programação, e ele está sendo disponibilizado no GitHub. O conteúdo está dividido em 7 (sete) unidades (pastas), seguindo o proposto no plano de ensino. Cada unidade tem um texto de apoio e suas respectivas videoaulas, e atividades, dependo da unidade.
 
 Para se localizar em relação aos dias de aula e o conteúdo que está sendo passado utilize o arquivo [cronograma.md](cronograma.md) que se encontra na pasta raíz do nosso GitHub.
 
-Também tem a pasta "Exemplos" que contém códigos em Java que podem ser usados nas unidades. Inicialmente é interessante executar o exemplo de código para entender a sua programação, e depois usar partes deste código na atividade em si.
+Também tem a pasta [Exemplos](./Exemplos "Exemplos") que contém códigos em Java que podem ser usados nas unidades. Inicialmente é interessante executar o exemplo de código para entender a sua programação, e depois usar partes deste código na atividade em si.
 
 Mas observe, as pastas serão disponibilizadas no decorrer do cronograma. Assim, mais próximo do final do cronograma teremos a pasta "TrabalhoFinal" que irá conter o material necessário para desenvolver a atividade final da disciplina.
 
 Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com um dos sistemas operacionais: Windows, Linux ou MacOS. O material teórico (textos e videoaulas) até podem ser trabalhados com dispositivos móveis (smartphones ou tablets), mas a parte prática exige um equipamento desktop.
 
-## Ambiente de Desenvolvimento Prático
+## Links
 
-Para o desenvolvimento da parte prática precisamos de uma **Linguagem de Programação** e uma **IDE** (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado). Também podemos usar outras ferramentas para ajudar neste processo de aprender a programar. Separei algumas abaixo que gradativamente iremos usar. Bom, vamos começar pela Linguagem de Programação (_let's go_).
+[AVA3)](<https://ava3.furb.br/course/view.php?id=27025> "AVA3")  
+[Prova de Suficiência (inscrição)](<https://forms.office.com/r/qjF4LaMBGA> "Prova de Suficiência (inscrição)")
+[Aulas MS-Teams](<https://teams.microsoft.com/l/channel/19%3ab305ce0e3087401ea2ecd82432fb32f2%40thread.tacv2/Geral?groupId=3db62920-46ba-4b88-8e41-a8e69cb20d1b&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams")  
+[Gravações das aulas](<https://furb.sharepoint.com/teams/CMP0166000220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas")  
+[Monitoria](<https://github.com/dalton-reis/disciplinaIpNot/blob/main/monitorHorario.md> "Monitoria")
 
-### Instalando a Linguagem de Programação - Java
+**IMPORTANTE**: sempre consulte o [Cronograma](cronograma.md "Cronograma") para verificar os prazos de entrega das atividades avaliativas.  
 
-Para instalar o Java acesse o link
+## [Unidade 1](./Unidade1 "Unidade 1")  
 
-[<https://adoptopenjdk.net/>](<https://adoptopenjdk.net/> "Para instalar o Java").
+- Assistir as duas videoaulas  
+- Responder o [questionário](<https://ava3.furb.br/mod/quiz/view.php?id=485106> "questionário") no AVA3  
+- [Instalar o Ambiente de Desenvolvimento Prático](./Unidade1/IDE.md "Instalar o Ambiente de Desenvolvimento Prático")  
 
-Selecionar OpenJDK 11 (LTS) e HotSpot. Clique no Último Lançamento, e assim irá baixar um arquivo .msi. Depois dê dois clicks no arquivo, … e alguns next … mas ATENÇÃO … se aparecer uma janela deste tipo
+## [Unidade 2](./Unidade2 "Unidade 2")  
 
-![Path do Java](imgs/img_OpenJDKpath.png "Path do Java")
+- Assistir as duas videoaulas  
+- Responder o [questionário](<https://ava3.furb.br/mod/quiz/view.php?id=485109> "questionário") no AVA3  
 
-selecione a opção em vermelho. Assim a variável do sistema JAVA_HOME fica definida para está instalação do Java … e depois, next, ..., finish.
+## [Unidade 3](./Unidade3 "Unidade 3")  
 
-### Instalando a IDE - VSCode
+- Assistir as duas videoaulas  
+- Responder o [questionário](<@@@@> "questionário") no AVA3  
+- [Ambiente de Desenvolvimento Prático - Apoio](./IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
+- Atividade: [URI](<@@@@> "URI") no AVA3  
+<!-- - Atividade: [desafio](<@@@@> "desafio") no AVA3  -->
 
-A IDE a ser utilizada será o Microsoft Visual Studio Code (VSCode). Além do VSCode também será necessário instalar algumas **Extensions** (extensões) para trabalhar com a linguagem de programação definida (no caso o Java).
+## [Unidade 4](./Unidade4 "Unidade 4")  
 
-#### Instalando o VSCode
+- Assistir uma videoaula  
+- [Atividade Aula](<@@@@> "Atividade Aula") no AVA3  
+- Atividade Aula: [respostas](<@@@@> "respostas") no AVA3  
+    Os arquivos a serem postados são somente os Uni4ExeXX.java (onde XX é o número do exercício). Lembre que os arquivos devem ser zipados (ZIP).  
+- Prova 1 - parta A: [entrega](<@@@@> "entrega") no AVA3  
 
-Para instalar o VSCode acesse o link
+## [Unidade 5](./Unidade5 "Unidade 5")  
 
-[<https://code.visualstudio.com/>](<https://code.visualstudio.com/> "Para instalar o VSCode").
+- Assistir as duas videoaulas  
+- Responder o [questionário](<@@@@> "questionário") no AVA3  
+- Lista de Exercícios: [respostas](<@@@@> "respostas") no AVA3  
+<!-- - Desafio da Maratona: [Spoj](<@@@@> "Spoj") no AVA3  -->
 
-Selecione Versão para Windows – Stable Build. Dois clicks no arquivo, e next, ..., next, finish.
+## [Unidade 6](./Unidade6 "Unidade 6")  
 
-#### Instalando as Extensions
+- Assistir uma videoaula  
+- Responder o [questionário](<@@@@> "questionário") no AVA3  
+- Lista de Exercícios: [respostas](<@@@@> "respostas") no AVA3  
+- Prova 2: [entrega](<@@@@> "entrega") no AVA3  
 
-A instalação das extensões é feita direto dentro do VSCode. Para isto, abra o VSCode, é vá para barra lateral “Extensions”. No campo de texto que aparecer digite: java, e na primeira ocorrência de “Java Extension Pack” clicar em install.
+## [Unidade 7](./Unidade7 "Unidade 7")  
 
-Caso queira listar quais extensões está usando pode usar os comando em:  
-Unix:  
-> code --list-extensions | xargs -L 1 echo code --install-extension
+- Assistir uma videoaula  
+- Responder o [questionário](<@@@@> "questionário") no AVA3  
+- Definir [equipes](<@@@@> "equipes") no AVA3  
+- Trabalho Final: [entrega](<@@@@> "entrega") no AVA3  
 
-Windows (PowerShell, e. g. using Visual Studio Code's integrated Terminal):  
-> code --list-extensions | % { "code --install-extension $_" }
-
-**Importante**: feche e abra o VSCode para efetivar as instalações das extensões.
-
-### Testando o Ambiente de Desenvolvimento
-
-Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello World" em Java. Para fazer este teste existe várias formas, uma delas é:
-
-- No VSCode no menu "View / Command Palette …" digite/selecione "Java:  Create Java Project …".
-  
-  ![View / Command Palette](imgs/img_VSCodeViewProjetoJava.png "View / Command
-  Palette")
-
-- Selecione "No build tools" … espere um pouco … e quando aparecer a janela escolha um "local" para salvar o seu projeto. Após selecionar o "local" entre com um nome para seu projeto, e pressione "enter" para confirmar. O seu projeto deve ter sido criado, e aparecer algo deste tipo: ![Exemplo de projeto](imgs/img_VSCodeExemploProjeto.png "Exemplo de projeto")
-
-- Agora selecione na janela esquerda do VSCode a pasta "src", e depois o arquivo "App.java". As vezes além de abrir a janela para mostrar o arquivo "App.java" também abre a janela "Java Overview" .. por enquanto podes fechar a janela "Java Overview".
-  
-![Executando um código em Java](imgs/img_VSCodeJavaRun.png "Executando um código em Java")
-
-- Agora clique em "Run" que aparece no texto da janela "App.java" entre as linhas 1 e 2. Assim deve aparecer uma nova janela abaixo da janela do texto do "App.java" com algumas linhas de texto .. é a janela do "TERMINAL". Nesta janela (do TERMINAL) deve aparecer o texto "Hello, World!".
-
-![Execução no Terminal](imgs/img_VSCodeJavaTerminal.png "Execução no Terminal")
-
-- este texto é a mensagem que foi definida no programa "App.java" para ser escrito para o usuário … e … meus parabéns, já tens o PRIMEIRO programa em Java 😉.
-  
-- Para mais informações sobre como usar o Java no VSCode:
-  [<https://code.visualstudio.com/docs/java/java-tutorial>](<https://code.visualstudio.com/docs/java/java-tutorial> "Uso do Java no VSCode")
-
-## VSCode - passos iniciais
-
-Para quem quiser aprender um pouco mais sobre a IDE VSCode segue alguns links:
-
-- [Lista Geral](<https://code.visualstudio.com/docs/getstarted/introvideos>)
-- [Começando](<https://code.visualstudio.com/docs/introvideos/basics>)
-- [Edição de Código](<https://code.visualstudio.com/docs/introvideos/codeediting>)
-- [Personalizar](<https://code.visualstudio.com/docs/introvideos/configure>)
-- [Extensões](<https://code.visualstudio.com/docs/introvideos/extend>)
-- [Depurando](<https://code.visualstudio.com/docs/introvideos/debugging>)
-- [Controle de Versão](<https://code.visualstudio.com/docs/introvideos/versioncontrol>)
-- [Customizar](<https://code.visualstudio.com/docs/introvideos/customize>)
-
-## MS Live Share - Planned Session
-
-Uma outra extensão para o VSCode é o "Live Share". Está extensão permite criar sessões online para compartilhamento de tela. Mas não é um simples compartilhamento de tela, mas também permite que se compartilhe alguns (os principais) recursos que o editor de código do VSCode disponibiliza.
-Para mais informações:
-
-- sobre o Live Share acesse
-
-  [<https://docs.microsoft.com/pt-br/visualstudio/liveshare/>](<https://docs.microsoft.com/pt-br/visualstudio/liveshare/> "Sobre o Live Share")
-
-- para usar o Live Share no VSCode (Extension)
-  
-  [<https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack>](<https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack> "Instalar o Live Share")
-
-## GIT (Controlador de Versão)
-
-E outro extensão é instalar o GIT que serve para "versionar" códigos. Todo o conteúdo de aula, inclusive os códigos de exemplo, serão disponibilizados na rede social mais adorada pelos nerds do mundo todo: o [Github!](<https://github.com>) Para mais informações:
-
-- sobre o GIT no VSCode acesse
-  [<https://code.visualstudio.com/docs/editor/versioncontrol>](<https://code.visualstudio.com/docs/editor/versioncontrol> "Sobre o GIT no VSCode")
-
-- sobre o GIT no geral
-  
-  [<https://git-scm.com>](<https://git-scm.com> "Sobre o GIT")
-
-- para usar o GIT
-  
-  [<https://git-scm.com/download/win>](<https://git-scm.com/download/win> "Instalar o GIT")
-
-- configure a ferramenta GIT: configure informações de usuário para todos os repositórios locais.  
-  - configura o nome que você quer ligado às suas transações de commit:
-
-    ```shell
-    git config --global user.name "[nome]"
-    ```
-
-  - configura o email que você quer ligado às suas transações de commit:
-
-    ```shell
-    git config --global user.email "[endereco-de-email]"
-    ```
-
-- folha de dicas (_cheat-sheet_)
-
-  [https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/ "cheat-sheet")
-
-## GIT (Gits)
-
-Gits é um recurso adicional ao [GitHub](<https://github.com>) para permitir o compartilhamento de trechos de código, notas, listas de tarefas e muito mais. Você pode salvar seus Gists como privados ou públicos. Os Gists privados são ocultados dos motores de pesquisa, mas são visíveis para qualquer pessoa com quem partilhe o URL. Por exemplo. Se você quiser escrever uma lista particular de tarefas.
-
-- Compartilhamento de códigos e notas relacionadas a disciplina de Introdução à Programação: <https://gist.github.com/dalton-reis>
-
-## GIT (Discussions)
-
-O **Discussions** é um espaço de discussões da nossa disciplina de Introdução à Programação. As discussões podem ser um lugar para nos conectarmos com outros membros da nossa disciplina. Neste espaço você pode:
-
-- Perguntar sobre assuntos que você está com dúvidas.  
-- Compartilhar ideias.  
-- Conhecer outros membros da disciplina.  
-- Dê boas-vindas aos outros e tenha a mente aberta.  
-
-Lembre-se de que esta é uma comunidade que nós construímos juntos 💪.
-
-Para começar, comente abaixo apresentando-se e conte-nos o que você faz na área da computação.
-
-- <https://github.com/dalton-reis/disciplinaIpNot/discussions>
-
-## OpenJDK Documentation
-
-Para se aprofundar mais em Java tem a documentação oficial do OpenJDK:
-[<http://devdocs.io/openjdk/>](<http://devdocs.io/openjdk/> "Documentação do OpenJDK")
-
-## Outras opções
-
-Bom, existem muitas opções, e obviamente com o tempo vocês mesmo conseguiram decidir quais são melhores.
-E sempre aparecem mais e mais, sempre com novidades "futurísticas" (_I'll be back_!!).
+E, conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
