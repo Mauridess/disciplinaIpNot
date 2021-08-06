@@ -37,7 +37,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 
 - Assistir as duas videoaulas  
 - Responder o [questionário](<@@@@> "questionário") no AVA3  
-- [Ambiente de Desenvolvimento Prático - Apoio](./IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
+- [Ambiente de Desenvolvimento Prático - Apoio](./Unidade3/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
 - Atividade: [URI](<@@@@> "URI") no AVA3  
 <!-- - Atividade: [desafio](<@@@@> "desafio") no AVA3  -->
 

@@ -92,7 +92,7 @@ Ementa - introdução a linguagem de programação: introdução a uma IDE, cara
 
 **Entrega prática no URI (algoritmos):** 09/09/21 (quarta)  
 **Entrega Questionário 4:**  09/09/21 (quarta)  
-[Ambiente de Desenvolvimento Prático - Apoio](./IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
+[Ambiente de Desenvolvimento Prático - Apoio](./Unidade3/IDEapoio.md "Ambiente de Desenvolvimento Prático - Apoio")  
 <!-- Aviso: [Unidades 4: atividades](<https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> "Unidades 4: atividades")  -->
 
 -----------
